@@ -1,3 +1,19 @@
+# Poker Javascript/React Project
+
+This is a fully functional poker website. The starting page allows a user to create a profile or sign in. Once signed in, the user can opt to join a game and the amount they want to buy in for (with play money). The gameplay is completely functional allowing betting, calling, folding, etc. At the end of a given hand, the winner will be evaluated and given the winnings from the pot.
+
+Image of the homepage:
+
+![Homepage](Homepage.jpeg)
+
+Image of a turn in progress. The yellow cirle indicates whose turn it is. This player has the option to fold, check, or bet. Each player can only see their own cards:
+
+![Turn](Turn.jpeg)
+
+Image of the end of a round. All players cards are revealed and the winner is displayed. In this case, Peter won with an ace high flush.
+
+![Winner](Winner.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
